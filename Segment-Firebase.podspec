@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.default_subspec = 'Core'
   s.static_framework = true
 
-  s.dependency 'Analytics'
+  s.dependency 'Segment-Analytics'
 
   s.dependency 'Firebase', '~> 10.24.0'
   s.dependency 'Firebase/Core', '~> 10.24.0'
