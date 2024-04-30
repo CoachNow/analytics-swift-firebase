@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "SegmentFirebase-Swift"
+  s.name             = "SegmentFirebase"
   s.version          = "1.3.6"
   s.summary          = "Firebase Integration for Segment's analytics-ios library."
 
