@@ -29,7 +29,7 @@
 
 import Foundation
 import Segment
-import Firebase
+import FirebaseCore
 import FirebaseAnalytics
 
 /**
